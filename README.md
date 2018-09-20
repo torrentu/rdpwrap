@@ -8,3 +8,5 @@ Just add support by adding the offsets from the text file (in this repo) corresp
 It will only contain non-Insider versions I'm able to get from the Microsoft Update Catalog or Microsoft Download Center.
 
 Currently this repo contains additional offsets for rdpwrap.ini 2018-05-16.
+
+![Screenshot](/RDPWrapper_Demo_w63_19093.png "Screenshot of Windows 8.1 with all updates up to 2018-09")
