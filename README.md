@@ -60,7 +60,7 @@ none
 none
 
 ### Windows 10 (15063)
-- 10.0.15063.994
+none
 
 ### Windows 10 (16299)
 none
