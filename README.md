@@ -15,9 +15,9 @@ It will only contain non-Insider versions I'm able to get from the Microsoft Upd
 
 
 ## Version info:
-Currently this repo contains additional offsets for rdpwrap.ini 2018-05-16.
+Currently this repo contains additional offsets for rdpwrap.ini with last change from 2018-10-03.
 
-Last update: 2018-09-25
+Last update: 2018-10-03
 
 Includes versions up to 2018-09-11
 
