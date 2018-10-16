@@ -15,11 +15,11 @@ It will only contain non-Insider versions I'm able to get from the Microsoft Upd
 
 
 ## Version info:
-Currently this repo contains additional offsets for rdpwrap.ini with last change from 2018-10-03.
+Currently this repo contains additional offsets for rdpwrap.ini with last change from 2018-10-10.
 
-Last update: 2018-10-04
+Last update: 2018-10-16
 
-Includes versions up to 2018-09-11
+Includes versions up to 2018-10-09
 
 If you've got a version not supported by RDP Wrapper and not posted here, feel free to open an issue with file version and download link to the msu/cab-file containing the version.
 
