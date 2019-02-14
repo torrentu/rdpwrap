@@ -67,6 +67,3 @@ none
 
 ### Windows 10 (17134)
 none
-
-### Windows 10 (17763)
-unsupported until I find out, how to automate the new PSFX-updates
