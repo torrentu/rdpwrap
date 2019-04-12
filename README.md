@@ -27,6 +27,8 @@ Remember, that I won't determine offsets for Insider builds or preview updates. 
 
 Also remember, that I won't have enough free time to immediately determine offsets. Please be patient.
 
+## Responsibility:
+I don't take any responsibility for correctness of the offsets or potential damage caused by RDP Wrapper itself or the offsets published here.
 
 ## Missing offsets:
 
@@ -67,3 +69,6 @@ none
 
 ### Windows 10 (17134)
 none
+
+### Windows 10 (17763)
+Currently not supported by me.
